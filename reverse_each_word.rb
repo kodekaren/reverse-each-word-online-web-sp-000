@@ -1,7 +1,7 @@
 def reverse_each_word(sentence)
-  sentence.reverse
   array = []
   array<<sentence.split(" ")
-  
+  array.collect do |sentence|
+    sentence.reverse
   end
 end
