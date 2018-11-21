@@ -5,4 +5,3 @@ array = []
   array.join
 end
 end
-end
