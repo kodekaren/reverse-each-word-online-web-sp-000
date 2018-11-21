@@ -4,5 +4,5 @@ array = []
  array.collect {|word| word.reverse}
   array.join
 end
-end  
+end
 end
