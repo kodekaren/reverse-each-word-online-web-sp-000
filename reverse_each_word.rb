@@ -5,5 +5,6 @@ array<<sentence.reverse
     sentence.split(" ")
 
   end
+  array.reverse!
   array.join(" ")
 end
