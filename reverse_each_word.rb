@@ -6,6 +6,5 @@ array<<sentence.reverse
 
   end
 
-
   array.join(" ")
 end
